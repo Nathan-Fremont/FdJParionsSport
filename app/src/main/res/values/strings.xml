@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FdjParionsSport</string>
+    <string name="error_general_message_try_again">Please try again</string>
+    <string name="common_back">Back</string>
+    <string name="leagues_list_search_hint">Search</string>
+</resources>
